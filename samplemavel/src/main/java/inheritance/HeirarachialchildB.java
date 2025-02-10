@@ -11,7 +11,7 @@ public class HeirarachialchildB extends Heirarachialparent {
 	}
 	public void display2()
 	{
-		System.out.println("child B");
+		System.out.println("child B"); 
 	}
 
 }

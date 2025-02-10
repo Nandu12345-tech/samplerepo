@@ -7,6 +7,7 @@ public class Polymorphismparent extends Polymorphism1
 		int c=a+b;
 		System.out.println("sum of the integer is"+c);
 		super.display(3, 6);
+		
 	}
 	
 	

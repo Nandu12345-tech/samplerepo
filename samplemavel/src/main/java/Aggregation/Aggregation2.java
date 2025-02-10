@@ -10,7 +10,7 @@ public class Aggregation2 {
 		this.state=state;
 		this.ref=ref;
 	}
-	public void display()
+	public void display() 
 	{
 		System.out.println(ref.name+" " +ref.rollno);
 		System.out.println(city+" "+ state);
